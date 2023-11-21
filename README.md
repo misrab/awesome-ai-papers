@@ -3,9 +3,8 @@
 ## Description
 This repository is an up-to-date list of significant AI papers organized by publication date. It covers five fields : computer vision, natural language processing, audio processing, multimodal learning and reinforcement learning. Feel free to give this repository a star if you enjoy the work.
 
-Maintainer: [Aimerou Ndiaye](https://github.com/aimerou)
-
-Twitter: [Twitter Account](https://twitter.com/AmrouNdiaye1)
+Original repo, occasionally re-merged: [Aimerou Ndiaye](https://github.com/aimerou/-awesome-ai-papers)
+This repo maintained by: [Misrab](https://github.com/misrab)
 
 ## Taxonomy
 To select the most relevant papers, we chose subjective limits in terms of number of citations. Each icon here designates a paper type that meets one of these criteria.
@@ -26,46 +25,59 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 - [Multimodal Learning](#5)
 - [Reinforcement Learning](#6)
 - [Other Papers](#7)
+- "-->" want to read soon; "[yyyy-mm-dd]" read date
 
 ----
+
+## Misc <a name="0"></a>
+
+
+## Coding, Computation, Maths <a name="8"></a>
+* --> :star: 02/2022: [Competition-Level Code Generation with AlphaCode (AlphaCode)](https://www.science.org/doi/full/10.1126/science.abq1158)
+* --> :star: 06/2022: [Solving Quantitative Reasoning Problems with Language Models (Minerva)](https://arxiv.org/abs/2206.14858)
+
+
+## Biotech <a name="9"></a>
+* --> :trophy: 2021: [Highly accurate protein structure prediction with AlphaFold (Alphafold)](https://www.nature.com/articles/s41586-021-03819-2)
+* --> :star: 05/2022: [ColabFold: making protein folding accessible to all (ColabFold)](https://www.nature.com/articles/s41592-022-01488-1)
+
 
 ## Historical Papers <a name="1"></a>
 * :trophy: 1958: [Perceptron: A probabilistic model for information storage and organization in the brain (Perceptron)](https://psycnet.apa.org/record/1959-09865-001)
 * :trophy: 1986: [Learning representations by back-propagating errors (Backpropagation)](https://www.nature.com/articles/323533a0)
 * :trophy: 1986: [Induction of decision trees (CART)](https://link.springer.com/article/10.1007/BF00116251)
 * :trophy: 1989: [A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition (HMM)](https://ieeexplore.ieee.org/abstract/document/18626)
-* :trophy: 1989: [Multilayer feedforward networks are universal approximators](https://www.sciencedirect.com/science/article/abs/pii/0893608089900208)
+* --> :trophy: 1989: [Multilayer feedforward networks are universal approximators](https://www.sciencedirect.com/science/article/abs/pii/0893608089900208)
 * :trophy: 1992: [A training algorithm for optimal margin classifiers (SVM)](https://dl.acm.org/doi/10.1145/130385.130401)
 * :trophy: 1996: [Bagging predictors](https://link.springer.com/article/10.1007/BF00058655)
 * :trophy: 1998: [Gradient-based learning applied to document recognition (CNN/GTN)](https://ieeexplore.ieee.org/abstract/document/726791)
 * :trophy: 2001: [Random Forests](https://link.springer.com/article/10.1023/a:1010933404324)
 * :trophy: 2001: [A fast and elitist multiobjective genetic algorithm (NSGA-II)](https://ieeexplore.ieee.org/abstract/document/996017)
 * :trophy: 2003: [Latent Dirichlet Allocation (LDA)](https://jmlr.csail.mit.edu/papers/v3/blei03a.html)
-* :trophy: 2006: [Reducing the Dimensionality of Data with Neural Networks (Autoencoder)](https://www.science.org/doi/abs/10.1126/science.1127647)
-* :trophy: 2008: [Visualizing Data using t-SNE (t-SNE)](https://www.jmlr.org/papers/v9/vandermaaten08a.html)
+* --> :trophy: 2006: [Reducing the Dimensionality of Data with Neural Networks (Autoencoder)](https://www.science.org/doi/abs/10.1126/science.1127647)
+* --> :trophy: 2008: [Visualizing Data using t-SNE (t-SNE)](https://www.jmlr.org/papers/v9/vandermaaten08a.html)
 * :trophy: 2009: [ImageNet: A large-scale hierarchical image database (ImageNet)](https://ieeexplore.ieee.org/document/5206848)
 * :trophy: 2012: [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
-* :trophy: 2013: [Efficient Estimation of Word Representations in Vector Space (Word2vec)](https://arxiv.org/abs/1301.3781)
-* :trophy: 2013: [Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/abs/1312.6114)
-* :trophy: 2014: [Generative Adversarial Networks (GAN)](https://papers.nips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)
-* :trophy: 2014: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting (Dropout)](https://jmlr.org/papers/v15/srivastava14a.html)
+* --> :trophy: 2013: [Efficient Estimation of Word Representations in Vector Space (Word2vec)](https://arxiv.org/abs/1301.3781)
+* --> :trophy: 2013: [Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/abs/1312.6114)
+* --> :trophy: 2014: [Generative Adversarial Networks (GAN)](https://papers.nips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)
+* [2023-10] :trophy: 2014: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting (Dropout)](https://jmlr.org/papers/v15/srivastava14a.html)
 * :trophy: 2014: [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)
 * :trophy: 2014: [Adam: A Method for Stochastic Optimization (Adam)](https://arxiv.org/abs/1412.6980)
-* :trophy: 2015: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Cov... (BatchNorm)](http://proceedings.mlr.press/v37/ioffe15.html)
-* :trophy: 2015: [Going Deeper With Convolutions (Inception)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html)
-* :trophy: 2015: [Human-level control through deep reinforcement learning (Deep Q Network)](https://www.nature.com/articles/nature14236/)
+* [2023-10] :trophy: 2015: [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Cov... (BatchNorm)](http://proceedings.mlr.press/v37/ioffe15.html)
+* --> :trophy: 2015: [Going Deeper With Convolutions (Inception)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html)
+* --> :trophy: 2015: [Human-level control through deep reinforcement learning (Deep Q Network)](https://www.nature.com/articles/nature14236/)
 * :trophy: 2015: [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (Faster R-CNN)](https://papers.nips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html)
 * :trophy: 2015: [U-Net: Convolutional Networks for Biomedical Image Segmentation (U-Net)](https://arxiv.org/abs/1505.04597)
 * :trophy: 2015: [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/abs/1512.03385)
 * :trophy: 2016: [You Only Look Once: Unified, Real-Time Object Detection (YOLO)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)
-* :trophy: 2017: [Attention is All you Need (Transformer)](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
-* :trophy: 2018: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
-* :trophy: 2020: [Language Models are Few-Shot Learners (GPT-3)](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
-* :trophy: 2021: [Highly accurate protein structure prediction with AlphaFold (Alphafold)](https://www.nature.com/articles/s41586-021-03819-2)
+* [2023-10] :trophy: 2017: [Attention is All you Need (Transformer)](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
+* --> :trophy: 2018: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT)](https://arxiv.org/abs/1810.04805)
+* --> :trophy: 2020: [Language Models are Few-Shot Learners (GPT-3)](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
 * :newspaper: 2022: [ChatGPT: Optimizing Language Models For Dialogue (ChatGPT)](https://openai.com/blog/chatgpt/)
 
 ## Computer Vision <a name="2"></a>
-* :star: 01/2022: [A ConvNet for the 2020s (ConvNeXt)](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.html)
+* --> :star: 01/2022: [A ConvNet for the 2020s (ConvNeXt)](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.html)
 * :star: 01/2022: [Patches Are All You Need (ConvMixer)](https://arxiv.org/abs/2201.09792)
 * :star: 02/2022: [Block-NeRF: Scalable Large Scene Neural View Synthesis (Block-NeRF)](https://openaccess.thecvf.com/content/CVPR2022/html/Tancik_Block-NeRF_Scalable_Large_Scene_Neural_View_Synthesis_CVPR_2022_paper.html)
 * :star: 03/2022: [DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection (DINO)](https://openreview.net/forum?id=3mRwyG5one)
@@ -107,16 +119,14 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 ## NLP <a name="3"></a>
 * :star: 01/2022: [LaMBDA: Language Models for Dialog Applications (LaMBDA)](https://arxiv.org/abs/2201.08239)
 * :star: 01/2022: [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (CoT)](https://arxiv.org/abs/2201.11903)
-* :star: 02/2022: [Competition-Level Code Generation with AlphaCode (AlphaCode)](https://www.science.org/doi/full/10.1126/science.abq1158)
-* :star: 02/2022: [Finetuned Language Models Are Zero-Shot Learners (FLAN)](https://arxiv.org/abs/2109.01652)
-* :star: 03/2022: [Training language models to follow human instructions with human feedback (InstructGPT)](https://arxiv.org/abs/2203.02155)
+* --> :star: 02/2022: [Finetuned Language Models Are Zero-Shot Learners (FLAN)](https://arxiv.org/abs/2109.01652)
+* --> :star: 03/2022: [Training language models to follow human instructions with human feedback (InstructGPT)](https://arxiv.org/abs/2203.02155)
 * :star: 03/2022: [Multitask Prompted Training Enables Zero-Shot Task Generalization (T0)](https://arxiv.org/abs/2110.08207)
 * :star: 03/2022: [Training Compute-Optimal Large Language Models (Chinchilla)](https://arxiv.org/abs/2203.15556)
 * :star: 04/2022: [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances (SayCan)](https://arxiv.org/abs/2204.01691)
 * :star: 04/2022: [GPT-NeoX-20B: An Open-Source Autoregressive Language Model (GPT-NeoX)](https://arxiv.org/abs/2204.06745)
-* :star: 04/2022: [PaLM: Scaling Language Modeling with Pathways (PaLM)](https://arxiv.org/abs/2204.02311)
+* --> :star: 04/2022: [PaLM: Scaling Language Modeling with Pathways (PaLM)](https://arxiv.org/abs/2204.02311)
 * :star: 06/2022: [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of lang... (BIG-bench)](https://arxiv.org/abs/2206.04615)
-* :star: 06/2022: [Solving Quantitative Reasoning Problems with Language Models (Minerva)](https://arxiv.org/abs/2206.14858)
 * :star: 10/2022: [ReAct: Synergizing Reasoning and Acting in Language Models (ReAct)](https://arxiv.org/abs/2210.03629)
 * :star: 11/2022: [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model (BLOOM)](https://arxiv.org/abs/2211.05100)
 * :newspaper: 11/2022: [Optimizing Language Models for Dialogue (ChatGPT)](https://openai.com/blog/chatgpt/)
@@ -125,20 +135,20 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 02/2023: [Toolformer: Language Models Can Teach Themselves to Use Tools (Toolformer)](https://arxiv.org/abs/2302.04761)
 * :star: 02/2023: [LLaMA: Open and Efficient Foundation Language Models (LLaMA)](https://arxiv.org/abs/2302.13971)
 * :newspaper: 03/2023: [GPT-4](https://openai.com/research/gpt-4)
-* :star: 03/2023: [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (GPT-4 Eval)](https://arxiv.org/abs/2303.12712)
-* :star: 03/2023: [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace (HuggingGPT)](https://arxiv.org/abs/2303.17580)
-* :star: 03/2023: [BloombergGPT: A Large Language Model for Finance (BloombergGPT)](https://arxiv.org/abs/2303.17564)
+* --> :star: 03/2023: [Sparks of Artificial General Intelligence: Early experiments with GPT-4 (GPT-4 Eval)](https://arxiv.org/abs/2303.12712)
+* --> :star: 03/2023: [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace (HuggingGPT)](https://arxiv.org/abs/2303.17580)
+* --> :star: 03/2023: [BloombergGPT: A Large Language Model for Finance (BloombergGPT)](https://arxiv.org/abs/2303.17564)
 * :star: 04/2023: [Instruction Tuning with GPT-4](https://arxiv.org/abs/2304.03277)
-* :star: 04/2023: [Generative Agents: Interactive Simulacra of Human  (Gen Agents)](https://arxiv.org/abs/2304.03442)
+* --> :star: 04/2023: [Generative Agents: Interactive Simulacra of Human  (Gen Agents)](https://arxiv.org/abs/2304.03442)
 * :star: 05/2023: [PaLM 2 Technical Report (PaLM-2)](https://arxiv.org/abs/2305.10403)
 * :star: 05/2023: [LIMA: Less Is More for Alignment (LIMA)](https://arxiv.org/abs/2305.11206)
 * :star: 05/2023: [QLoRA: Efficient Finetuning of Quantized LLMs (QLoRA)](https://arxiv.org/abs/2305.14314)
 * :star: 05/2023: [Voyager: An Open-Ended Embodied Agent with Large Language Models (Voyager)](https://arxiv.org/abs/2305.16291)
-* :arrow_double_up: 07/2023: [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs (ToolLLM)](https://arxiv.org/abs/2307.16789)
-* :arrow_double_up: 08/2023: [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework (MetaGPT)](https://arxiv.org/abs/2308.00352)
-* :arrow_double_up: 08/2023: [Code Llama: Open Foundation Models for Code (Code Llama)](https://arxiv.org/abs/2308.12950)
-* :arrow_double_up: 09/2023: [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback (RLAIF)](https://arxiv.org/abs/2309.00267)
-* :arrow_double_up: 09/2023: [Large Language Models as Optimizers (OPRO)](https://arxiv.org/abs/2309.03409)
+* --> :arrow_double_up: 07/2023: [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs (ToolLLM)](https://arxiv.org/abs/2307.16789)
+* --> :arrow_double_up: 08/2023: [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework (MetaGPT)](https://arxiv.org/abs/2308.00352)
+* --> :arrow_double_up: 08/2023: [Code Llama: Open Foundation Models for Code (Code Llama)](https://arxiv.org/abs/2308.12950)
+* --> :arrow_double_up: 09/2023: [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback (RLAIF)](https://arxiv.org/abs/2309.00267)
+* --> :arrow_double_up: 09/2023: [Large Language Models as Optimizers (OPRO)](https://arxiv.org/abs/2309.03409)
 
 ## Audio Processing <a name="4"></a>
 * :star: 02/2022: [mSLAM: Massively multilingual joint pre-training for speech and text (mSLAM)](https://arxiv.org/abs/2202.01374)
@@ -174,9 +184,9 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :star: 05/2022: [VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts (VLMo)](https://arxiv.org/abs/2111.02358)
 * :star: 08/2022: [Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks (BEiT)](https://arxiv.org/abs/2208.10442v2)
 * :star: 09/2022: [PaLI: A Jointly-Scaled Multilingual Language-Image Model (PaLI)](https://arxiv.org/abs/2209.06794)
-* :star: 02/2023: [Language Is Not All You Need: Aligning Perception with Language Models (Kosmos-1)](https://arxiv.org/abs/2302.14045v2)
+* --> :star: 02/2023: [Language Is Not All You Need: Aligning Perception with Language Models (Kosmos-1)](https://arxiv.org/abs/2302.14045v2)
 * :star: 03/2023: [PaLM-E: An Embodied Multimodal Language Model (PaLM-E)](https://arxiv.org/abs/2303.03378)
-* :arrow_double_up: 04/2023: [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head (AudioGPT)](https://arxiv.org/abs/2304.12995)
+* --> :arrow_double_up: 04/2023: [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head (AudioGPT)](https://arxiv.org/abs/2304.12995)
 * :arrow_double_up: 05/2023: [ImageBind: One Embedding Space To Bind Them All (ImageBind)](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html)
 * :arrow_double_up: 07/2023: [Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning (CM3Leon)](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)
 * :arrow_double_up: 07/2023: [Meta-Transformer: A Unified Framework for Multimodal Learning (Meta-Transformer)](https://arxiv.org/abs/2307.10802)
@@ -197,6 +207,5 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 * :arrow_double_up: 08/2023: [Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization (Retroformer)](https://arxiv.org/abs/2308.02151)
 
 ## Other Papers <a name="7"></a>
-* :star: 05/2022: [ColabFold: making protein folding accessible to all (ColabFold)](https://www.nature.com/articles/s41592-022-01488-1)
-* :star: 06/2022: [Measuring and Improving the Use of Graph Information in GNN](https://arxiv.org/abs/2206.13170)
+* --> :star: 06/2022: [Measuring and Improving the Use of Graph Information in GNN](https://arxiv.org/abs/2206.13170)
 * :star: 12/2022: [RT-1: Robotics Transformer for Real-World Control at Scale (RT-1)](https://arxiv.org/abs/2212.06817)
