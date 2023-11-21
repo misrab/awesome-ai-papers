@@ -31,6 +31,31 @@ To select the most relevant papers, we chose subjective limits in terms of numbe
 
 ## Misc <a name="0"></a>
 
+Cohere AI 
+
+* [Which Prompts Make The Difference? Data Prioritization For Efficient Human LLM Evaluation](https://cohere.com/research/papers/which-prompts-make-the-difference-data-prioritization-for-efficient-human-llm-evaluation-2023-10-22)
+* [Goodtriever: Adaptive Toxicity Mitigation with Retrieval-augmented Models](https://cohere.com/research/papers/goodtriever-adaptive-toxicity-mitigation-with-retrieval-augmented-models-2023-10-11)
+* [The Grand Illusion: The Myth of Software Portability and Implications for ML Progress](https://cohere.com/research/papers/the-grand-illusion-the-myth-of-software-portability-and-implications-for-ml-progress-2023-09-12)
+* [Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning](https://cohere.com/research/papers/pushing-mixture-of-experts-to-the-limit-extremely-parameter-efficient-moe-for-instruction-tuning-2023-09-11)
+* --> [When Less is More: Investigating Data Pruning for Pretraining LLMs at Scale](https://cohere.com/research/papers/when-less-is-more-investigating-data-pruning-for-pretraining-llms-at-scale-2023-09-08)
+* --> [Intriguing Properties of Quantization at Scale](https://cohere.com/research/papers/intriguing-properties-of-quantization-at-scale-2023-05-30)
+* --> [Efficient Methods for Natural Language Processing: A Survey](https://arxiv.org/abs/2209.00099)
+
+Anthropic
+
+* --> [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
+* [In-context Learning and Induction Heads](https://www.anthropic.com/index/in-context-learning-and-induction-heads)
+* [A Mathematical Framework for Transformer Circuits](https://www.anthropic.com/index/a-mathematical-framework-for-transformer-circuits)
+* [Language Models (Mostly) Know What They Know](https://www.anthropic.com/index/language-models-mostly-know-what-they-know)
+* [Softmax Linear Units](https://www.anthropic.com/index/softmax-linear-units)
+* [Superposition, Memorization, and Double Descent](https://transformer-circuits.pub/2023/toy-double-descent/index.html)
+* [Distributed Representations: Composition & Superposition](https://transformer-circuits.pub/2023/superposition-composition/index.html)
+* [Interpretability Dreams](https://transformer-circuits.pub/2023/interpretability-dreams/index.html)
+* [Circuits Updates — May 2023](https://transformer-circuits.pub/2023/may-update/index.html#two-circles)
+* [Question Decomposition Improves the Faithfulness of Model-Generated Reasoning](https://www-files.anthropic.com/production/files/question-decomposition-improves-the-faithfulness-of-model-generated-reasoning.pdf)
+* [Measuring Faithfulness in Chain-of-Thought Reasoning](https://www-files.anthropic.com/production/files/measuring-faithfulness-in-chain-of-thought-reasoning.pdf)
+* [Towards understanding Sycophancy](https://arxiv.org/pdf/2310.13548.pdf):w
+
 
 ## Coding, Computation, Maths <a name="8"></a>
 * --> :star: 02/2022: [Competition-Level Code Generation with AlphaCode (AlphaCode)](https://www.science.org/doi/full/10.1126/science.abq1158)
